@@ -3,3 +3,5 @@
 venv/
 PPG_FieldStudy/
 src/model/data/
+src/__pycache__/
+data_exploration/__pycache__
