@@ -5,3 +5,5 @@ PPG_FieldStudy/
 src/model/data/
 src/__pycache__/
 data_exploration/__pycache__
+.data_exploration/PPGDaLiA_Dataset.ipynb
+full_df.pkl
